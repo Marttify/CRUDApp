@@ -33,18 +33,11 @@ Esta aplicación es un sistema CRUD (Crear, Leer, Actualizar, Eliminar) diseñad
 ---
 
 ## Capturas de Pantalla  
-
-### Vista Principal  
-![Vista Principal](./images/vista_principal.png)  
-
-### Formulario de Creación  
-![Formulario de Creación](./images/formulario_creacion.png)  
-
-### Detalles del Registro  
-![Detalles del Registro](./images/detalles_registro.png)  
-
-### Confirmación de Eliminación  
-![Confirmación de Eliminación](./images/confirmacion_eliminacion.png)  
+<img src="https://github.com/user-attachments/assets/1d0a5cff-db36-450d-9736-c8ef712be95b" alt="Vista Principal" width="100"/>
+<img src="https://github.com/user-attachments/assets/62fcb25c-f3ed-409d-9a8c-7c25093c02a2" alt="Formulario de Creación" width="100"/>
+<img src="https://github.com/user-attachments/assets/a6ac2018-f33d-4b42-8538-f58f2cf16b35" alt="Detalles del Registro" width="100"/>
+<img src="https://github.com/user-attachments/assets/1bc9c27e-2017-4bdf-b037-b4a3a858b2cd" alt="Confirmación de Eliminación" width="100"/>
+<img src="https://github.com/user-attachments/assets/1d0a5cff-db36-450d-9736-c8ef712be95b" alt="Confirmación de Eliminación - Continuación" width="100"/>
 
 ---
 
